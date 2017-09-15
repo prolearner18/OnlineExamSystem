@@ -1,0 +1,36 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="StudentHome.master.cs" Inherits="ExamSystem.StudentHome" %>
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Examination System</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="images/MarketPlace.css" type="text/css" />
+</head>
+<body>
+<div id="wrap">
+  <div id="header-photo">
+    <h1 id="logo-text"><a href="Index.aspx">
+        <asp:Image ID="Image1" runat="server" Height="70px" ImageUrl="~/images/BannerLogo.gif" Width="356px" /> </a></h1>
+    <h2 id="slogan">Online Exam System for UIU Students</h2>
+  </div>
+  <div  id="nav">
+    <ul>
+      <li id="current"><a href="Index.aspx">Home</a></li>
+      <li><a href="StudentProfile.aspx">Profile</a></li>
+      <li><a href="StudentInfoUpdate.aspx">Update Profile</a></li>
+      <li><a href="StudentResult.aspx">my Result</a></li>
+      <li><a href="Suggesation.aspx">suggesation</a></li>
+      <li><a href="Suggesation.aspx">Query</a></li>
+         <li><a href="About.aspx">About</a></li>
+    </ul>
+  </div>
+  <div id="content-wrap" class="three-col"  >
+      </div>
+   <div>
+     <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <!-- Page-specific content will go here... -->
+            </asp:ContentPlaceHolder>
+       </div>
+
+</html>

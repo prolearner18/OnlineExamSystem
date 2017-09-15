@@ -1,0 +1,10 @@
+F:\Software Engineering lab\OnlineExamSystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Software Engineering lab\OnlineExamSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.pdb
+F:\Courses\Software Engineering lab\OnlineExamSystem\LogicLayer\bin\Debug\LogicLayer.dll
+F:\Courses\Software Engineering lab\OnlineExamSystem\LogicLayer\bin\Debug\LogicLayer.pdb
+F:\Courses\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+F:\Courses\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.dll
+F:\Courses\Software Engineering lab\OnlineExamSystem\LogicLayer\obj\Debug\LogicLayer.pdb
